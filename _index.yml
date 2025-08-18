@@ -1,0 +1,62 @@
+---
+product-family:
+  title: NetApp解決方案
+  lead: 利用NetApp解決方案轉變您的 IT 基礎架構，旨在簡化營運、增強雲端管理和最佳化儲存。按感興趣的領域瀏覽解決方案或使用搜尋列尋找NetApp解決方案中任何位置的內容。
+  summary: 利用NetApp解決方案轉變您的 IT 基礎架構，旨在簡化營運、增強雲端管理和最佳化儲存。按感興趣的領域瀏覽解決方案或使用搜尋列尋找NetApp解決方案中任何位置的內容。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: 自動化
+    tags: automation
+  - title: 資料保護
+    tags: protection
+  - title: DevOps
+    tags: devops
+  - title: 企業應用程式
+    tags: entapps
+  - title: 高可用性
+    tags: ha
+  - title: 工作負載
+    tags: workloads
+  tiles:
+  - title: 了解NetApp解決方案
+    icon: "./media/icon_family_ieops-2302.png"
+    url: intro-family.html
+    summary: 了解NetApp解決方案。
+    tags: all
+  - title: 虛擬化解決方案
+    icon: "./media/icon_virtualization_ieops-2280.png"
+    url: netapp-solutions-virtualization/
+    summary: 在虛擬化環境中提供靈活、可靠、高效的資料基礎架構的解決方案。
+    tags: all,automation,ha,workloads
+  - title: 人工智慧解決方案
+    icon: "./media/icon_artificial_intelligence_ieops-2282.png"
+    url: netapp-solutions-ai/
+    summary: 可提高您的資料的效能、生產力和保護的解決方案。
+    tags: all,automation,workloads
+  - title: 公有和混合雲解決方案
+    icon: "./media/icon_public_hybrid_ieops-2281.png"
+    url: netapp-solutions-cloud/
+    summary: 簡化工作負載移動性、提供企業級效能並統一本地和多雲環境中的資料管理的解決方案。
+    tags: all,ha,protection,workloads
+  - title: 資料庫解決方案
+    icon: "./media/icon_databases_ieops-2283.png"
+    url: netapp-solutions-databases/
+    summary: 解決方案可在主要企業資料庫中充分發揮NetApp儲存的潛力。
+    tags: all,entapps,ha,protection,workloads
+  - title: SAP 和 SAP HANA 解決方案
+    icon: "./media/icon_sap_hana_ieops-2285.png"
+    url: netapp-solutions-sap/
+    summary: 可最大限度提高 SAP 和 SAP HANA 環境的效能和效率的解決方案。
+    tags: all,entapps,ha,protection,workloads
+  - title: 容器解決方案
+    icon: "./media/icon_containers_ieops-2284.png"
+    url: netapp-solutions-containers/
+    summary: 透過經過驗證的部署以及與NetApp儲存管理系統和軟體的無縫集成，簡化和擴展 Kubernetes 環境的解決方案。
+    tags: all,automation,devops,workloads
+  - title: 資料管理解決方案
+    icon: "./media/icon_analytics_ieops-2283.png"
+    url: netapp-solutions-dataops/
+    summary: 用於管理本地和跨雲端的儲存和資料服務的解決方案。
+    tags: all,automation,protection,workloads

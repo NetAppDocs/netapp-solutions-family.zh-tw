@@ -1,0 +1,71 @@
+---
+permalink: intro-family.html 
+keywords:  
+summary:  
+---
+= 了解NetApp解決方案
+:allow-uri-read: 
+:icons: font
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp解決方案提供了一套全面的資源，旨在解決各種 IT 挑戰。每個解決方案都匯集了正確的內容和工具，幫助您以對您的業務最重要的方式應用NetApp技術。
+
+解決方案按技術領域組織。
+
+
+
+== 虛擬化
+
+存取NetApp與領先虛擬化平台的整合。簡化管理、提高資源效率並優化整個環境的效能。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-virtualization/["查看虛擬化解決方案"] 。
+
+
+
+== 人工智慧（AI）
+
+利用 NetApp 的 AI 解決方案加速機器學習和深度學習工作流程。探索如何將NetApp儲存與流行的 AI 框架整合、最佳化資料管道以及高效部署 AI 工作負載。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-ai/["查看 AI 解決方案"] 。
+
+
+
+== 公有雲和混合雲
+
+在公有、私有和混合雲基礎架構中無縫部署和管理NetApp解決方案。探索與主要雲端提供者的集成，以實現一致的操作和敏捷的資料移動。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-cloud/["查看雲端解決方案"] 。
+
+
+
+== 資料庫
+
+優化 Oracle 和 SQL Server 等企業資料庫的儲存和效能。存取備份、復原和調整的最佳實踐，以確保對關鍵任務工作負載提供可靠的支援。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-databases/["查看資料庫解決方案"] 。
+
+
+
+== SAP 和 SAP HANA
+
+探索經過驗證的設計、效能最佳化技術和資料保護策略，以簡化操作並最大化 SAP 投資的價值。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-sap/["檢視 SAP 解決方案"] 。
+
+
+
+== 容器
+
+利用NetApp的持久性儲存和資料管理解決方案支援容器化應用程式。探索與編排平台的整合策略，以增強可擴展性和彈性。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-containers/["查看容器解決方案"] 。
+
+
+
+== 資料管理
+
+透過高效能資料解決方案支援 Splunk 和 Apache Spark 等大規模分析平台。了解NetApp如何協助維護資料完整性並優化複雜分析環境中的效能。
+
+link:https://docs.netapp.com/us-en/netapp-solutions-dataops/["查看資料管理解決方案"] 。

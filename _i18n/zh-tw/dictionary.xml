@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
+  <block id="f201e5097d4e2c5f71ab71a8b93ff55d" category="doc">了解NetApp解決方案</block>
+  <block id="9b31511089be494faae33ad7f00fabe9" category="paragraph">NetApp解決方案提供了一套全面的資源，旨在解決各種 IT 挑戰。每個解決方案都匯集了正確的內容和工具，幫助您以對您的業務最重要的方式應用NetApp技術。</block>
+  <block id="09a9afb592d76b3f4644a15a2e861412" category="paragraph">解決方案按技術領域組織。</block>
+  <block id="ea4c55be196897a16d86999f5c16d582" category="section-title">虛擬化</block>
+  <block id="bf27cfc661b87e6ce6d578e4217f23de" category="paragraph">存取NetApp與領先虛擬化平台的整合。簡化管理、提高資源效率並優化整個環境的效能。</block>
+  <block id="be1861ba3b21ec358912cffd6f779099" category="inline-link-macro">查看虛擬化解決方案</block>
+  <block id="f48d892ecfc982fad84c689f554b9b29" category="paragraph"><block ref="6cd4a912c8ba8eee17f28fac7342dbf3" category="inline-link-macro-rx"></block> 。</block>
+  <block id="16a059b6054d3de2e47b692120e5b0e5" category="section-title">人工智慧（AI）</block>
+  <block id="543603f38314a61dbbf88ecd981a842f" category="paragraph">利用 NetApp 的 AI 解決方案加速機器學習和深度學習工作流程。探索如何將NetApp儲存與流行的 AI 框架整合、最佳化資料管道以及高效部署 AI 工作負載。</block>
+  <block id="18eb754c24c4cc0337442d7fa2e00844" category="inline-link-macro">查看 AI 解決方案</block>
+  <block id="cbf1a99a619fb43501ade21975c58636" category="paragraph"><block ref="07a64784b50dbd18e7c80ec7c020efb0" category="inline-link-macro-rx"></block> 。</block>
+  <block id="f87c0f3bcae62c197a838cbfe37abd7c" category="section-title">公有雲和混合雲</block>
+  <block id="eb5a4cbccc3ced9ca3139eb5d922a231" category="paragraph">在公有、私有和混合雲基礎架構中無縫部署和管理NetApp解決方案。探索與主要雲端提供者的集成，以實現一致的操作和敏捷的資料移動。</block>
+  <block id="f3a084c7088b4eb8a6e25cb9a842d5cc" category="inline-link-macro">查看雲端解決方案</block>
+  <block id="2c0a92fc52958e51e4ea858fd584bb47" category="paragraph"><block ref="34f209942f2ecfaf9c0cfbfaf756da20" category="inline-link-macro-rx"></block> 。</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="section-title">資料庫</block>
+  <block id="ed7ebe90c4d10fa1a92994d27aa2ff82" category="paragraph">優化 Oracle 和 SQL Server 等企業資料庫的儲存和效能。存取備份、復原和調整的最佳實踐，以確保對關鍵任務工作負載提供可靠的支援。</block>
+  <block id="599b5cbb24decd4ff75da2b98eeee1b1" category="inline-link-macro">查看資料庫解決方案</block>
+  <block id="7186265899a962ac90bce5907b82b6ca" category="paragraph"><block ref="b4767f977fd28b90ffd90d51aa7acdf5" category="inline-link-macro-rx"></block> 。</block>
+  <block id="e340bc103d02ce2b8e016eb60705029c" category="section-title">SAP 和 SAP HANA</block>
+  <block id="1820162ef653c14e82f6acc02d44eb65" category="paragraph">探索經過驗證的設計、效能最佳化技術和資料保護策略，以簡化操作並最大化 SAP 投資的價值。</block>
+  <block id="bc721cb0466c80976a72e91a3ef8d070" category="inline-link-macro">檢視 SAP 解決方案</block>
+  <block id="1fab45ec716ef4884f6a046a119280c5" category="paragraph"><block ref="300f9f9cbbca2bef7c5dcc12aa2c169a" category="inline-link-macro-rx"></block> 。</block>
+  <block id="5382aaf8b3d2fdeb6717f9805b0dd511" category="section-title">容器</block>
+  <block id="511881d2aa4d9e17cedf9da814132557" category="paragraph">利用NetApp的持久性儲存和資料管理解決方案支援容器化應用程式。探索與編排平台的整合策略，以增強可擴展性和彈性。</block>
+  <block id="648c19f818c9b58a14b71f1b72dc000f" category="inline-link-macro">查看容器解決方案</block>
+  <block id="6b8d7506a2d85ad0de1d0dc740ef5e2e" category="paragraph"><block ref="8c3572dcfd8f7885a27868c89e77b17f" category="inline-link-macro-rx"></block> 。</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="section-title">資料管理</block>
+  <block id="157588fb0fdd5962e733abadfeb56548" category="paragraph">透過高效能資料解決方案支援 Splunk 和 Apache Spark 等大規模分析平台。了解NetApp如何協助維護資料完整性並優化複雜分析環境中的效能。</block>
+  <block id="84e46de9ebf60e3911a422585ee71bcb" category="inline-link-macro">查看資料管理解決方案</block>
+  <block id="33d6f12b993bc7bbf091e20a1490088d" category="paragraph"><block ref="c6fda0293932d36dfc35b04dc7619789" category="inline-link-macro-rx"></block> 。</block>
+  <block id="322a66d37e3b05d26eaa6f7119ff6aed" category="sidebar">利用NetApp解決方案轉變您的 IT 基礎架構，旨在簡化營運、增強雲端管理和最佳化儲存。按感興趣的領域瀏覽解決方案或使用搜尋列尋找NetApp解決方案中任何位置的內容。</block>
+  <block id="0726296d7ccce528b55d80b472d02cb2" category="sidebar">NetApp解決方案</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
+  <block id="21a1e68164f738b8be1dae11d5a694b3" category="sidebar">資料保護</block>
+  <block id="407432c641358300c37673ae96305f3a" category="sidebar">DevOps</block>
+  <block id="b0dae11b82e63781abdc8f893c41b3c0" category="sidebar">企業應用程式</block>
+  <block id="520b661a272c9e6f55f469cc9c24193d" category="sidebar">高可用性</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
+  <block id="d9fcf5d2b3cc023cfc23c2a2a6ea65b1" category="sidebar">了解NetApp解決方案。</block>
+  <block id="dc6289f7398ceb74d3fd5a13a90dbca2" category="sidebar">虛擬化解決方案</block>
+  <block id="5058cc7bdf69fdf26f0a05db1b7039f9" category="sidebar">在虛擬化環境中提供靈活、可靠、高效的資料基礎架構的解決方案。</block>
+  <block id="5baf6ec1129c513e42641878b72ed0d8" category="sidebar">人工智慧解決方案</block>
+  <block id="03a46eeb01a9e1b53eaf75cb0c7ab125" category="sidebar">可提高您的資料的效能、生產力和保護的解決方案。</block>
+  <block id="9e6382832ff8059fffd7334b52b46e6a" category="sidebar">公有和混合雲解決方案</block>
+  <block id="9e35f920cd42f186b73bf65c117b486c" category="sidebar">簡化工作負載移動性、提供企業級效能並統一本地和多雲環境中的資料管理的解決方案。</block>
+  <block id="114dd74d303c1a7a0ca71b00760474ba" category="sidebar">資料庫解決方案</block>
+  <block id="66ba66996d8c189914ae46e6211d3241" category="sidebar">解決方案可在主要企業資料庫中充分發揮NetApp儲存的潛力。</block>
+  <block id="dd14f1e79d4fcd8bf6ff2fbbddfd2216" category="sidebar">SAP 和 SAP HANA 解決方案</block>
+  <block id="8d4fe53f7b0532b3d4e4d7dac1fcba87" category="sidebar">可最大限度提高 SAP 和 SAP HANA 環境的效能和效率的解決方案。</block>
+  <block id="ae05797d002b77737a10ce3d62b7521d" category="sidebar">容器解決方案</block>
+  <block id="4932dd0c0fb7706ddbd089d6e39216eb" category="sidebar">透過經過驗證的部署以及與NetApp儲存管理系統和軟體的無縫集成，簡化和擴展 Kubernetes 環境的解決方案。</block>
+  <block id="aeb11413825c35abdf36736cbaa541ef" category="sidebar">資料管理解決方案</block>
+  <block id="c571e150d27b8578da48b93620fb3a66" category="sidebar">用於管理本地和跨雲端的儲存和資料服務的解決方案。</block>
+</blocks>
