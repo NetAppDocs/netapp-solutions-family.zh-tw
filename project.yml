@@ -1,6 +1,7 @@
 ---
 settings:
   name: NetApp solutions
+  search: netapp-solutions-virtualization,netapp-solutions-cloud,netapp-solutions-ai,netapp-solutions-databases,netapp-solutions-containers,netapp-solutions-dataops,netapp-solutions-sap
   internal:
     pdf_enabled: false
     lipi_enabled: true
