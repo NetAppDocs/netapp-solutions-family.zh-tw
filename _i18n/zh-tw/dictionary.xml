@@ -56,4 +56,127 @@
   <block id="4932dd0c0fb7706ddbd089d6e39216eb" category="sidebar">透過經過驗證的部署以及與NetApp儲存管理系統和軟體的無縫集成，簡化和擴展 Kubernetes 環境的解決方案。</block>
   <block id="aeb11413825c35abdf36736cbaa541ef" category="sidebar">資料管理解決方案</block>
   <block id="c571e150d27b8578da48b93620fb3a66" category="sidebar">用於管理本地和跨雲端的儲存和資料服務的解決方案。</block>
+  <block id="0c5a761290c1a2a4bae66679d5443b36" category="cell">*類別*</block>
+  <block id="50bd13d2b424bef06acb4558d6c5cc04" category="cell">*部落格標題*</block>
+  <block id="0a40e3c91a3a55c9a37428c6d194d0e5" category="cell">人工智慧</block>
+  <block id="4ad92fbbf9b8a37f3fa16c364f98327f" category="inline-link-macro">KV CacheBlend － 它是什麼，以及為什麼它重要</block>
+  <block id="bebc1d02db89ca19c10054374834e222" category="cell"><block ref="bebc1d02db89ca19c10054374834e222" category="inline-link-macro-rx"></block></block>
+  <block id="04a939d688c302a1a02da2a4d9f83c5e" category="inline-link-macro">五分鐘內從零到 LLM 推論</block>
+  <block id="b1b4b0a5aaa2e992f8e68b760e3c9fbb" category="cell"><block ref="b1b4b0a5aaa2e992f8e68b760e3c9fbb" category="inline-link-macro-rx"></block></block>
+  <block id="615437f0cbfdf23246fc2ce0da4d075b" category="inline-link-macro">從零到 LLM 推論 - vLLM 版</block>
+  <block id="099fa2c8edb30928c29dc186c0c44988" category="cell"><block ref="099fa2c8edb30928c29dc186c0c44988" category="inline-link-macro-rx"></block></block>
+  <block id="abd3e473f1d708d8b8cae96e526db6b5" category="inline-link-macro">LLM 推理 - 使用 vLLM 和 GDS 將 KV 快取卸載到 ONTAP</block>
+  <block id="b13b3e41591bb904cff0c92471b22552" category="cell"><block ref="b13b3e41591bb904cff0c92471b22552" category="inline-link-macro-rx"></block></block>
+  <block id="c5b7b3f2abcabcada7f7db1d1d93a664" category="inline-link-macro">使用 NVIDIA NIM 和 Google Cloud NetApp Volumes 實現從零到 LLM 的推理</block>
+  <block id="d7780413afdd935b5c4c0b760e9e5473" category="cell"><block ref="d7780413afdd935b5c4c0b760e9e5473" category="inline-link-macro-rx"></block></block>
+  <block id="cc7934de74b771a6493872b08bd59d69" category="inline-link-macro">在 NetApp AIPod 上託管 OpenAI gpt-oss</block>
+  <block id="777a9a20b7a0201f98c22efff11ca8aa" category="cell"><block ref="777a9a20b7a0201f98c22efff11ca8aa" category="inline-link-macro-rx"></block></block>
+  <block id="2957488d7a4bdc42af502e6592773cf9" category="inline-link-macro">KV 快取卸載 - 何時有利？</block>
+  <block id="f05badcea131bf153bdad541458fdd3f" category="cell"><block ref="f05badcea131bf153bdad541458fdd3f" category="inline-link-macro-rx"></block></block>
+  <block id="29922a3a592a929bc79035e32411a0ae" category="inline-link-macro">KV 快取卸載 - CPU RAM 與儲存</block>
+  <block id="a355bc0d957604bd5a42e1677e1c328d" category="cell"><block ref="a355bc0d957604bd5a42e1677e1c328d" category="inline-link-macro-rx"></block></block>
+  <block id="8a36baeb028c7ee79491c8b31ec54211" category="inline-link-macro">KV 快取卸載 - 探索共享儲存的優勢</block>
+  <block id="c33dcb5ad1e895bd274f2aca5dee7f94" category="cell"><block ref="c33dcb5ad1e895bd274f2aca5dee7f94" category="inline-link-macro-rx"></block></block>
+  <block id="4db3e9462eeb2c0430ff31e6267ef920" category="inline-link-macro">ONTAP Tools for VMware 10.5（第 1 部分，共 3 部分）：強化您的 VMware 私有雲</block>
+  <block id="b0ed83666f2e5cef2c3f9ad3502cfdda" category="cell"><block ref="b0ed83666f2e5cef2c3f9ad3502cfdda" category="inline-link-macro-rx"></block></block>
+  <block id="e2d75d7eb4bd027162b9103950dce3ca" category="inline-link-macro">ONTAP Tools for VMware 10.5（第 2 部分，共 3 部分）：保護您的 VMware vSphere 和 VCF 部署</block>
+  <block id="f3e143c240a719f60fe588c112d15f40" category="cell"><block ref="f3e143c240a719f60fe588c112d15f40" category="inline-link-macro-rx"></block></block>
+  <block id="341ce072703f3fc3bab1320f6f946467" category="inline-link-macro">ONTAP Tools for VMware 10.5（第 3 部分，共 3 部分）：支援您的 VMware 私有雲</block>
+  <block id="428f1aa9d0704aeb5168c44703a2dccf" category="cell"><block ref="428f1aa9d0704aeb5168c44703a2dccf" category="inline-link-macro-rx"></block></block>
+  <block id="c57c1a042ff3f535c0fa0ae1bcb8b069" category="inline-link-macro">簡化虛擬機器遷移：由 NetApp Shift Toolkit 支援的 Windows 管理中心擴展</block>
+  <block id="9412c93e1b5ee3bf6e08254208d77744" category="cell"><block ref="9412c93e1b5ee3bf6e08254208d77744" category="inline-link-macro-rx"></block></block>
+  <block id="e61ead4102c89a9758572df81301a1d2" category="cell">混合雲</block>
+  <block id="8898941c990be63ee81348f2c4780384" category="inline-link-macro">使用 ONTAP 為 Microsoft 部署提供支援：隨時隨地按需擴展</block>
+  <block id="f0abcb159f6e78b00f28142f57ac8246" category="cell"><block ref="f0abcb159f6e78b00f28142f57ac8246" category="inline-link-macro-rx"></block></block>
+  <block id="8c4dffd5ba2b94f6b8dbf0f46de2d171" category="inline-link-macro">在 Azure NetApp Files 上使用 SnapCenter 保護 SAP HANA 資料</block>
+  <block id="6e98332392d2e8cb91c481ab46828b08" category="cell"><block ref="6e98332392d2e8cb91c481ab46828b08" category="inline-link-macro-rx"></block></block>
+  <block id="b33a97e7b696f49ad82fb3af19afaeda" category="inline-link-macro">在 Azure NetApp Files 上使用 SnapCenter 進行 SAP 系統重整與複製作業</block>
+  <block id="8fa28cef79776179830399c7b3c55cc6" category="cell"><block ref="8fa28cef79776179830399c7b3c55cc6" category="inline-link-macro-rx"></block></block>
+  <block id="e1dffcbf5a034188a7b9cf6badec1df5" category="cell">資料平台</block>
+  <block id="c528059a00e882ae05d7788a444a59e5" category="inline-link-macro">使用 NetApp XCP 將 Hadoop 分層到 NetApp NFS（熱儲存）和 S3（冷儲存）— 端對端指南與自動化</block>
+  <block id="879a02abc18955393f42329a2a843f74" category="cell"><block ref="081a058db21bd5b721620309e03db8f0" category="inline-link-macro-rx"></block></block>
+  <block id="233eac8966c27c151b9d4eb4711f263d" category="inline-link-macro">資料架構現代化：將 HDFS Hive 遷移到基於物件儲存的 Iceberg 與 NetApp</block>
+  <block id="8797c51b3b59f3fb84e78cbc1c20bc4b" category="cell"><block ref="8797c51b3b59f3fb84e78cbc1c20bc4b" category="inline-link-macro-rx"></block></block>
+  <block id="98812e85f26bcc37c60e762a70780688" category="inline-link-macro">現代資料平台 – Databricks with NetApp ONTAP （FSxN-AWS）</block>
+  <block id="2d2e0427e756fbcf6ec4107588d22110" category="cell"><block ref="2d2e0427e756fbcf6ec4107588d22110" category="inline-link-macro-rx"></block></block>
+  <block id="e8c77061eb1e276057c49a59d11ae416" category="inline-link-macro">使用 ONTAP 建構高效能 Flink 架構</block>
+  <block id="052aee695752be206692c5e5b1119103" category="cell"><block ref="052aee695752be206692c5e5b1119103" category="inline-link-macro-rx"></block></block>
+  <block id="66b9f9c0bde1599e448251ccc5fa8591" category="inline-link-macro">NetApp 和 VMware － 比以往任何時候都更好</block>
+  <block id="7734acb06ea7c8149179f40ae688ea8a" category="cell"><block ref="7734acb06ea7c8149179f40ae688ea8a" category="inline-link-macro-rx"></block></block>
+  <block id="78463a384a5aa4fad5fa73e2f506ecfc" category="inline-link-macro">英文</block>
+  <block id="37ce0afb395b0346118a74c4f05f20a7" category="cell"><block ref="3b277c3e8740f32e48fe9dd888ed34aa" category="inline-link-macro-rx"></block>&amp;f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com 上的 AI 部落格]</block>
+  <block id="750b570f7c6cacf7b9f43c1c7919ad96" category="inline-link-macro">AI 部落格於 thePub</block>
+  <block id="183754618306c7f8d7df04f981d234f0" category="cell"><block ref="183754618306c7f8d7df04f981d234f0" category="inline-link-macro-rx"></block></block>
+  <block id="81cd1d42ffdb75544144e24cf0f8dc54" category="inline-link-macro">第 1 部分：入門指南</block>
+  <block id="837bbffc16dc6e344470df1114a13c87" category="cell"><block ref="837bbffc16dc6e344470df1114a13c87" category="inline-link-macro-rx"></block></block>
+  <block id="0437c596200f9be8466a3200f5cf2438" category="inline-link-macro">第 2 部分：VCF 和 ONTAP 主儲存</block>
+  <block id="e361fc9a6477c5857207bca25b3d797f" category="cell"><block ref="e361fc9a6477c5857207bca25b3d797f" category="inline-link-macro-rx"></block></block>
+  <block id="14c9e898417d6b3caceb9c60335c4bb3" category="inline-link-macro">第 3 部分：VCF 和 Element 主儲存設備</block>
+  <block id="aa37de763ea804c1fb3fe637fb6ee5ef" category="cell"><block ref="aa37de763ea804c1fb3fe637fb6ee5ef" category="inline-link-macro-rx"></block></block>
+  <block id="fbbcbe8b70235742e3e6aa656c7815d9" category="inline-link-macro">第四部分：ONTAP Tools for VMware 和補充儲存設備</block>
+  <block id="de8f12d6d2f85119918d1bbb774d43c8" category="cell"><block ref="de8f12d6d2f85119918d1bbb774d43c8" category="inline-link-macro-rx"></block></block>
+  <block id="ca821d0143286d806ddd63968470ded6" category="inline-link-macro">在任何雲端環境中最佳化儲存和資料密集型 VMware 工作負載</block>
+  <block id="068f5a3c2c43d2c98585ba811f53448d" category="cell"><block ref="068f5a3c2c43d2c98585ba811f53448d" category="inline-link-macro-rx"></block></block>
+  <block id="e2064a9f7b6b94e3ae4ba81b2f9eb4b5" category="inline-link-macro">要將儲存密集型 VMware 工作負載移轉到 Azure VMware Solution？請先閱讀本文。</block>
+  <block id="e64d3e5c79e6674080802b27f21a9fc4" category="cell"><block ref="e64d3e5c79e6674080802b27f21a9fc4" category="inline-link-macro-rx"></block></block>
+  <block id="b476b9f8f9103a8f07ee6ba9746928e3" category="inline-link-macro">使用 Trident 25.02 為 OpenShift Virtualization VM 執行當機一致性備份與還原作業</block>
+  <block id="5d9bee3614a47b04a973adf87884da72" category="cell"><block ref="5d9bee3614a47b04a973adf87884da72" category="inline-link-macro-rx"></block></block>
+  <block id="e7eb7f68cb5a04d95a6152e9d6ab37ec" category="inline-link-macro">使用 ROSA 和 Amazon FSx for NetApp ONTAP 進行 OpenShift Virtualization 的虛擬機即時遷移</block>
+  <block id="bc1682a1060c7d0227436599caf517c4" category="cell"><block ref="bc1682a1060c7d0227436599caf517c4" category="inline-link-macro-rx"></block></block>
+  <block id="c7f30bf600f66e137aa2a0b029cf3429" category="inline-link-macro">OpenShift Virtualization 中 VM 資料保護的備份和還原選項</block>
+  <block id="b60b03db06ab704bca6b636cd5d4f856" category="cell"><block ref="b60b03db06ab704bca6b636cd5d4f856" category="inline-link-macro-rx"></block></block>
+  <block id="aff0ae78d47ab3399d90f0aa0f9ffcc3" category="inline-link-macro">ONTAP for OpenShift Virtualization VM ：您可以繼續執行無中斷磁碟區遷移作業</block>
+  <block id="895589bd49a02b9781b175f68aba23e4" category="cell"><block ref="895589bd49a02b9781b175f68aba23e4" category="inline-link-macro-rx"></block></block>
+  <block id="c069b35ac4a7aee0a4a3d5d757c06779" category="inline-link-macro">使用 Amazon EC2 和 Amazon FSx ONTAP iSCSI 協定將 VMware 虛擬機器移轉到 AWS</block>
+  <block id="9bbb03cd8f98e3d6d2239a58c4803f4e" category="cell"><block ref="9bbb03cd8f98e3d6d2239a58c4803f4e" category="inline-link-macro-rx"></block></block>
+  <block id="8d7efa937e97b1a8187ff8f122d9732a" category="inline-link-macro">優化雲端型 VMware 部署的儲存</block>
+  <block id="5a6bd3a9e0048284caf2b5f521d90959" category="cell"><block ref="5a6bd3a9e0048284caf2b5f521d90959" category="inline-link-macro-rx"></block></block>
+  <block id="00d07ce14f227693b9dabba2f52b53a5" category="inline-link-macro">使用基於 NetApp 的雲端產品開始使用 Azure VMware Solution</block>
+  <block id="ac66988ead29ba5f4ed32ec3894527e7" category="cell"><block ref="ac66988ead29ba5f4ed32ec3894527e7" category="inline-link-macro-rx"></block></block>
+  <block id="14d00863ef683631706683292e1e1b3c" category="inline-link-macro">使用 VMware HCX 設定 FSx ONTAP 和 VMware Cloud on AWS SDDC 的混合雲</block>
+  <block id="e2d970cd6feb419cd8796624bacf677d" category="cell"><block ref="e2d970cd6feb419cd8796624bacf677d" category="inline-link-macro-rx"></block></block>
+  <block id="2cd9dbbc556004ec4c63b9db15995320" category="inline-link-macro">Google Cloud NetApp Volumes 資料儲存對 Google Cloud VMware Engine 的支援（NetApp）</block>
+  <block id="81d8e8f3d71b597f33ac08980d0f1c96" category="cell"><block ref="81d8e8f3d71b597f33ac08980d0f1c96" category="inline-link-macro-rx"></block></block>
+  <block id="ad2161f671cbb71fdc30f584cb59d2d9" category="inline-link-macro">如何使用 NetApp Volumes 作為 Google Cloud VMware Engine（Google）的資料存放區</block>
+  <block id="cde479814511a71f58ef309f697022a4" category="cell"><block ref="cde479814511a71f58ef309f697022a4" category="inline-link-macro-rx"></block></block>
+  <block id="cc090bcb755694ec2b8ab2fa1beb2258" category="inline-link-macro">使用 SnapCenter 外掛程式和 BlueXP 備份與還原進行 VMware 的 3-2-1 資料保護</block>
+  <block id="6845b59b08e758d1f76493bad3a906c7" category="cell"><block ref="6845b59b08e758d1f76493bad3a906c7" category="inline-link-macro-rx"></block></block>
+  <block id="9c004ebf0d7adca9e42ae6ecd9c1c4ad" category="inline-link-macro">利用 NetApp Cloud Insights 實現現代資料中心的可觀測性</block>
+  <block id="d3fb43b61178ef64f1aed3855bddc8b0" category="cell"><block ref="d3fb43b61178ef64f1aed3855bddc8b0" category="inline-link-macro-rx"></block></block>
+  <block id="6a211bce28b13011e81530086a186758" category="inline-link-macro">使用 NetApp SnapCenter 與 Amazon FSx ONTAP 保護您的 SQL Server 工作負載</block>
+  <block id="e3611377b31e2b1fab270cf0ecadd740" category="cell"><block ref="e3611377b31e2b1fab270cf0ecadd740" category="inline-link-macro-rx"></block></block>
+  <block id="aeb79a141f3c3f603cee05dfa64277aa" category="inline-link-macro">使用 Amazon FSx 儲存實現混合雲中 Oracle 資料庫操作的現代化</block>
+  <block id="a35641294527bf47526671d78d910a7e" category="cell"><block ref="a35641294527bf47526671d78d910a7e" category="inline-link-macro-rx"></block></block>
+  <block id="c4ff33edf6e94fb434fb59e4ad2c286b" category="inline-link-macro">混合雲資料庫解決方案與 SnapCenter</block>
+  <block id="e6c9e9316fee7048645938d93d674056" category="cell"><block ref="e6c9e9316fee7048645938d93d674056" category="inline-link-macro-rx"></block></block>
+  <block id="fc25c016a8fb35a621842044a8d4f2e7" category="inline-link-macro">在混合雲中實現 Oracle 資料庫基礎架構的自動化</block>
+  <block id="3e78754f8bb90f06073e18a2399d0b7f" category="cell"><block ref="3e78754f8bb90f06073e18a2399d0b7f" category="inline-link-macro-rx"></block></block>
+  <block id="c3298ba6bab71519d6848d438eba1295" category="inline-link-macro">透過全新認證的 Trident Operator，簡化在 Red Hat OpenShift 上安裝 Trident 的過程</block>
+  <block id="f195fd6ccf5aee88db79524c06279636" category="cell"><block ref="f195fd6ccf5aee88db79524c06279636" category="inline-link-macro-rx"></block></block>
+  <block id="21a8cfe4cf09592f22a2bbf42ea20bb7" category="inline-link-macro">解鎖無縫的 iSCSI 儲存整合：ROSA 叢集上的 FSxN iSCSI 指南</block>
+  <block id="78a4f6c8226b7bcbba72ed1893ed82fa" category="cell"><block ref="78a4f6c8226b7bcbba72ed1893ed82fa" category="inline-link-macro-rx"></block></block>
+  <block id="ad970c13e2f2a8a35788ff6f59f8d913" category="inline-link-macro">Amazon FSx for NetApp ONTAP 與使用託管控制平面的 AWS 上的 Red Hat OpenShift 服務（ROSA）</block>
+  <block id="00e33f9ce2c5147f227efcc7a15f07dc" category="cell"><block ref="00e33f9ce2c5147f227efcc7a15f07dc" category="inline-link-macro-rx"></block></block>
+  <block id="6d3b254fcc0ec65e40af8a4609458626" category="inline-link-macro">使用 NVMe/TCP 為您在 VMware 上的現代容器化應用程式使用 ONTAP 儲存</block>
+  <block id="086448df12463da4ce3f320cbf050a23" category="cell"><block ref="086448df12463da4ce3f320cbf050a23" category="inline-link-macro-rx"></block></block>
+  <block id="6fb0aa4dffd44f313fe916b48eb2e61a" category="inline-link-macro">ONTAP 作為 OpenShift Container 平台中整合映像登錄的後端儲存設備</block>
+  <block id="fde216d74a9722c4064ed3e13386033d" category="cell"><block ref="fde216d74a9722c4064ed3e13386033d" category="inline-link-macro-rx"></block></block>
+  <block id="32941fe507e35e7690b95531087a8523" category="inline-link-macro">NetApp ONTAP 還可兼作 Red Hat OpenShift Container Platform 的日誌儲存</block>
+  <block id="6190bc67623b848bb7959b33f3f0d2eb" category="cell"><block ref="6190bc67623b848bb7959b33f3f0d2eb" category="inline-link-macro-rx"></block></block>
+  <block id="ba6fd9874b6697cb1aa44d44e6fee41c" category="inline-link-macro">在 Red Hat OpenShift 上安裝 NetApp Trident —— 如何解決 Docker 'toomanyrequests' 問題！</block>
+  <block id="ce1f05b584a4b8ad928c91ed745ca8b5" category="cell"><block ref="ce1f05b584a4b8ad928c91ed745ca8b5" category="inline-link-macro-rx"></block></block>
+  <block id="ec7f98a3714557d87968dc6a898f7912" category="inline-link-macro">使用 VMware Tanzu 和 ONTAP 加速您的 Kubernetes 之旅</block>
+  <block id="32e124b0349f41e06bf1e03f11950665" category="cell"><block ref="32e124b0349f41e06bf1e03f11950665" category="inline-link-macro-rx"></block></block>
+  <block id="6ffc220bcf68cdea1a7ee60630b3770b" category="inline-link-macro">Kubernetes on vSphere（第 1 部分）</block>
+  <block id="718b7fcd61673194858446821c8dea31" category="cell"><block ref="718b7fcd61673194858446821c8dea31" category="inline-link-macro-rx"></block></block>
+  <block id="c6960ae743737cb2431e58eb8f3f4c8c" category="inline-link-macro">Kubernetes on vSphere（第二部）</block>
+  <block id="6f01eedbaa404894cc11e49fa3f62506" category="cell"><block ref="6f01eedbaa404894cc11e49fa3f62506" category="inline-link-macro-rx"></block></block>
+  <block id="b0a058b2371e3f40c3f559b1f7d83b2f" category="summary">一系列介紹 NetApp 解決方案的部落格</block>
+  <block id="9284d209663b949d2cafe341bd0f7935" category="doc">NetApp 解決方案部落格</block>
+  <block id="49c97f7afaf1bc38d2a4e4723d0e7a1f" category="paragraph">請查看以下部落格，其中提供了將 NetApp ONTAP 儲存整合到各種解決方案中的實用指導和最佳實務。</block>
+  <block id="f1e98a26384a5e804c97236b60cebfae" category="open-title">所有部落格</block>
+  <block id="310dd198f252abd6848253f118de12ba" category="open-title">公有雲和混合雲</block>
+  <block id="10d42b4bab4fd3114da1e1eae0994d36" category="open-title">SAP 和 SAP HAHA</block>
+  <block id="637289fda08b4d4913dfdd067cea3623" category="sidebar">示範和部落格</block>
+  <block id="1afa3402452aa41c89bab41b818e82ae" category="sidebar">瀏覽各種 NetAp 解決方案的技術演示和部落格合集。</block>
 </blocks>
