@@ -188,4 +188,6 @@
   <block id="fbe145ebd7e668a4f13eb39934772ceb" category="cell"><block ref="fbe145ebd7e668a4f13eb39934772ceb" category="inline-link-macro-rx"></block></block>
   <block id="c2a9a8d2de43500438acc1d122409393" category="inline-link-macro">使用 FSx for NetApp ONTAP 和 SnapMirror 保護 SQL Server Always On FCI 的資料</block>
   <block id="25efac1fab3ae907689cb883e77648b1" category="cell"><block ref="25efac1fab3ae907689cb883e77648b1" category="inline-link-macro-rx"></block></block>
+  <block id="0311bbfdd63150f77ed6b1bcc9803c11" category="inline-link-macro">NetApp + Starburst：為大規模 AI 設計資料湖屋</block>
+  <block id="ed9b97aef4be8f9b6d59113e23787145" category="cell"><block ref="ed9b97aef4be8f9b6d59113e23787145" category="inline-link-macro-rx"></block></block>
 </blocks>

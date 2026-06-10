@@ -25,6 +25,9 @@ keywords: netapp, solutions, blogs
 | *類別* | *部落格標題* 
 
 
+| 人工智慧 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569["NetApp + Starburst：為大規模 AI 設計資料湖屋"] 
+
+
 | 人工智慧 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP 與 Agent Skills - 有什麼不同，為什麼這些差異對 NetApp 很重要？"] 
 
 
@@ -216,6 +219,9 @@ keywords: netapp, solutions, blogs
 [cols="20%, 80%"]
 |===
 | *類別* | *部落格標題* 
+
+
+| 人工智慧 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-Starburst-Designing-a-Data-Lakehouse-for-AI-at-scale/ba-p/467569["NetApp + Starburst：為大規模 AI 設計資料湖屋"] 
 
 
 | 人工智慧 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/MCP-vs-Agent-Skills-What-are-the-differences-and-why-do-they-matter-for-NetApp/ba-p/467508["MCP 與 Agent Skills - 有什麼不同，為什麼這些差異對 NetApp 很重要？"] 
