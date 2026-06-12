@@ -190,4 +190,6 @@
   <block id="25efac1fab3ae907689cb883e77648b1" category="cell"><block ref="25efac1fab3ae907689cb883e77648b1" category="inline-link-macro-rx"></block></block>
   <block id="0311bbfdd63150f77ed6b1bcc9803c11" category="inline-link-macro">NetApp + Starburst：為大規模 AI 設計資料湖屋</block>
   <block id="ed9b97aef4be8f9b6d59113e23787145" category="cell"><block ref="ed9b97aef4be8f9b6d59113e23787145" category="inline-link-macro-rx"></block></block>
+  <block id="346a2179dc81a3f689c78743b966068d" category="inline-link-macro">針對長上下文的 KV 快取卸載調優</block>
+  <block id="3eb7b43c3a37a4654a978008b53c4283" category="cell"><block ref="3eb7b43c3a37a4654a978008b53c4283" category="inline-link-macro-rx"></block></block>
 </blocks>
