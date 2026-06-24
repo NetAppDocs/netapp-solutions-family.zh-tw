@@ -192,4 +192,6 @@
   <block id="ed9b97aef4be8f9b6d59113e23787145" category="cell"><block ref="ed9b97aef4be8f9b6d59113e23787145" category="inline-link-macro-rx"></block></block>
   <block id="346a2179dc81a3f689c78743b966068d" category="inline-link-macro">針對長上下文的 KV 快取卸載調優</block>
   <block id="3eb7b43c3a37a4654a978008b53c4283" category="cell"><block ref="3eb7b43c3a37a4654a978008b53c4283" category="inline-link-macro-rx"></block></block>
+  <block id="fd6951df912961a8cd6dc44d230eb239" category="inline-link-macro">使用 NetApp 為 Cloudera 建置企業級備份與災難復原架構</block>
+  <block id="d154bceaa338afb64b0e140fd3235bd6" category="cell"><block ref="d154bceaa338afb64b0e140fd3235bd6" category="inline-link-macro-rx"></block></block>
 </blocks>
