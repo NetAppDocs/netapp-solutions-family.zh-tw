@@ -25,6 +25,9 @@ keywords: netapp, solutions, blogs
 | *類別* | *部落格標題* 
 
 
+| 人工智慧 | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比較 vLLM 的 KV 快取卸載框架"] 
+
+
 | 資料平台 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["使用 NetApp 為 Cloudera 建置企業級備份與災難復原架構"] 
 
 
@@ -103,7 +106,7 @@ keywords: netapp, solutions, blogs
 | 虛擬化 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp 和 VMware － 比以往任何時候都更好"] 
 
 
-| 人工智慧 | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["英文"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com 上的 AI 部落格] 
+| 人工智慧 | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["AI 部落格在 NetApp.com 上"] 
 
 
 | 人工智慧 | link:https://netapp.io/category/ai-ml/["AI 部落格於 thePub"] 
@@ -227,6 +230,9 @@ keywords: netapp, solutions, blogs
 | *類別* | *部落格標題* 
 
 
+| 人工智慧 | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比較 vLLM 的 KV 快取卸載框架"] 
+
+
 | 人工智慧 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-tuning-for-long-context/ba-p/467594["針對長上下文的 KV 快取卸載調優"] 
 
 
@@ -266,7 +272,7 @@ keywords: netapp, solutions, blogs
 | 人工智慧 | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/KV-cache-offloading-exploring-the-benefits-of-shared-storage/ba-p/465230["KV 快取卸載 - 探索共享儲存的優勢"] 
 
 
-| 人工智慧 | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["英文"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com 上的 AI 部落格] 
+| 人工智慧 | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["AI 部落格在 NetApp.com 上"] 
 
 
 | 人工智慧 | link:https://netapp.io/category/ai-ml/["AI 部落格於 thePub"] 

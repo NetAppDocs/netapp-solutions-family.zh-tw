@@ -103,8 +103,6 @@
   <block id="052aee695752be206692c5e5b1119103" category="cell"><block ref="052aee695752be206692c5e5b1119103" category="inline-link-macro-rx"></block></block>
   <block id="66b9f9c0bde1599e448251ccc5fa8591" category="inline-link-macro">NetApp 和 VMware － 比以往任何時候都更好</block>
   <block id="7734acb06ea7c8149179f40ae688ea8a" category="cell"><block ref="7734acb06ea7c8149179f40ae688ea8a" category="inline-link-macro-rx"></block></block>
-  <block id="78463a384a5aa4fad5fa73e2f506ecfc" category="inline-link-macro">英文</block>
-  <block id="37ce0afb395b0346118a74c4f05f20a7" category="cell"><block ref="3b277c3e8740f32e48fe9dd888ed34aa" category="inline-link-macro-rx"></block>&amp;f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[NetApp.com 上的 AI 部落格]</block>
   <block id="750b570f7c6cacf7b9f43c1c7919ad96" category="inline-link-macro">AI 部落格於 thePub</block>
   <block id="183754618306c7f8d7df04f981d234f0" category="cell"><block ref="183754618306c7f8d7df04f981d234f0" category="inline-link-macro-rx"></block></block>
   <block id="81cd1d42ffdb75544144e24cf0f8dc54" category="inline-link-macro">第 1 部分：入門指南</block>
@@ -194,4 +192,8 @@
   <block id="3eb7b43c3a37a4654a978008b53c4283" category="cell"><block ref="3eb7b43c3a37a4654a978008b53c4283" category="inline-link-macro-rx"></block></block>
   <block id="fd6951df912961a8cd6dc44d230eb239" category="inline-link-macro">使用 NetApp 為 Cloudera 建置企業級備份與災難復原架構</block>
   <block id="d154bceaa338afb64b0e140fd3235bd6" category="cell"><block ref="d154bceaa338afb64b0e140fd3235bd6" category="inline-link-macro-rx"></block></block>
+  <block id="3f6193c2d44323b066b6525b0df8d411" category="inline-link-macro">比較 vLLM 的 KV 快取卸載框架</block>
+  <block id="82f4a30f0b21ac6071b8c81774595959" category="cell"><block ref="82f4a30f0b21ac6071b8c81774595959" category="inline-link-macro-rx"></block></block>
+  <block id="262b50eaf28adc9b3a78eee7815e591b" category="inline-link-macro">AI 部落格在 NetApp.com 上</block>
+  <block id="cc861d83ff962c85f5b6cb9e959ab5b8" category="cell"><block ref="0d7f9b14ca5df4eb5cad8b45281aebea" category="inline-link-macro-rx"></block></block>
 </blocks>
