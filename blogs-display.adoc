@@ -25,6 +25,9 @@ keywords: netapp, solutions, blogs
 | *類別* | *部落格標題* 
 
 
+| 人工智慧 | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse：統一跨資料中心、超大規模雲端服務供應商與 NeoClouds 中從 BI 到 AI 的資料"] 
+
+
 | 人工智慧 | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比較 vLLM 的 KV 快取卸載框架"] 
 
 
@@ -228,6 +231,9 @@ keywords: netapp, solutions, blogs
 [cols="20%, 80%"]
 |===
 | *類別* | *部落格標題* 
+
+
+| 人工智慧 | link:https://community.netapp.com/community/discussion/468506/netapp-onehouse-unifying-data-from-bi-to-ai-across-datacenters-hyperscalers-and-neoclouds["NetApp OneHouse：統一跨資料中心、超大規模雲端服務供應商與 NeoClouds 中從 BI 到 AI 的資料"] 
 
 
 | 人工智慧 | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["比較 vLLM 的 KV 快取卸載框架"] 

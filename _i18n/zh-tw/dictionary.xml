@@ -196,4 +196,6 @@
   <block id="82f4a30f0b21ac6071b8c81774595959" category="cell"><block ref="82f4a30f0b21ac6071b8c81774595959" category="inline-link-macro-rx"></block></block>
   <block id="262b50eaf28adc9b3a78eee7815e591b" category="inline-link-macro">AI 部落格在 NetApp.com 上</block>
   <block id="cc861d83ff962c85f5b6cb9e959ab5b8" category="cell"><block ref="0d7f9b14ca5df4eb5cad8b45281aebea" category="inline-link-macro-rx"></block></block>
+  <block id="2aef4c1ae01f35f5102050c2ad9669a6" category="inline-link-macro">NetApp OneHouse：統一跨資料中心、超大規模雲端服務供應商與 NeoClouds 中從 BI 到 AI 的資料</block>
+  <block id="1b79097ab74638ff48e532b2add2ff3a" category="cell"><block ref="1b79097ab74638ff48e532b2add2ff3a" category="inline-link-macro-rx"></block></block>
 </blocks>
